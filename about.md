@@ -1,3 +1,4 @@
-# Template Mod
+# Print All Mods
 
-Edit about.md to change this
+
+A mod to print a list of all installed mods, useful for Android users
